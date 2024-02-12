@@ -70,7 +70,6 @@ const Login = () =>
                                                 <span class="padding_10">Register</span> </a>                      
                         </p>
                     </div>
-
                 </form>
             </div>
         </div>

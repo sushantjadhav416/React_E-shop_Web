@@ -6,8 +6,8 @@ import 'bootstrap/js/dist/carousel.js';
 
 const Glocery = () => {
   return (
-    <div className="G_section">
-    <div id="main_slider" className="carousel slide" data-ride="carousel">
+<div className="G_section">
+    <div id="G_main_slider" className="carousel slide" data-ride="carousel">
         <div className="carousel-inner">
             <div className="carousel-item active">
                 <div className="container">
@@ -93,7 +93,6 @@ const Glocery = () => {
                     </div>
                 </div>
             </div>
-
         </div>
         <a className="carousel-control-prev" href="#main_slider" role="button" data-bs-slide="prev">
             <i className="fa fa-angle-left"></i>
@@ -101,7 +100,6 @@ const Glocery = () => {
         <a className="carousel-control-next" href="#main_slider" role="button" data-bs-slide="next">
             <i className="fa fa-angle-right"></i>
         </a>
-
     </div>
 </div>
   )

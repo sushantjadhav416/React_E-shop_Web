@@ -59,7 +59,7 @@ const fashion = () => {
                                 <div className="box_main">
                                     <h4 className="shirt_text">Man T-shirt</h4>
                                     <p className="price_text">Price 100 Rs.</p>
-                                    <div className="tshirt_img"><img src="~/lib/images/tshirt-img.png"/></div>
+                                    <div className="tshirt_img"><img src="../IMAGES/tshirt-img.png"/></div>
                                     <div className="btn_main">
                                         <div className="buy_bt"><a href="#" onclick="mycart()">Buy Now</a></div>
                                         <div className="seemore_bt"><a href="#">See More</a></div>
@@ -70,7 +70,7 @@ const fashion = () => {
                                 <div className="box_main">
                                     <h4 className="shirt_text">Man Shirt</h4>
                                     <p className="price_text">Price 200 Rs.</p>
-                                    <div className="tshirt_img"><img src="~/lib/images/dress-shirt-img.jfif"/></div>
+                                    <div className="tshirt_img"><img src="../IMAGES/dress-shirt-img.jfif"/></div>
                                     <div className="btn_main">
                                         <div className="buy_bt"><a href="#" onclick="mycart()">Buy Now</a></div>
                                         <div className="seemore_bt"><a href="#">See More</a></div>
@@ -81,7 +81,7 @@ const fashion = () => {
                                 <div className="box_main">
                                     <h4 className="shirt_text">Woman Scart</h4>
                                     <p className="price_text">Price   500 Rs </p>
-                                    <div className="W_img"><img src="~/lib/images/women-clothes-img.png"/></div>
+                                    <div className="W_img"><img src="../IMAGES/women-clothes-img.png"/></div>
                                     <div className="btn_main">
                                         <div className="buy_bt"><a href="#" onclick="mycart()">Buy Now</a></div>
                                         <div className="seemore_bt"><a href="#">See More</a></div>

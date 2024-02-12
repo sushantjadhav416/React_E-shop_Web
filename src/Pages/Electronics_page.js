@@ -13,11 +13,11 @@ const Electronics_page = () => {
   return (
     <div class="banner_bg_main_E">
       <Header_top></Header_top>
-      <Logo></Logo>
+      <Logo></Logo> 
       <Header_bottom></Header_bottom>
       <Banner_bottom></Banner_bottom>
       <Electronics></Electronics>
-      <Footer></Footer>
+       <Footer></Footer>
     </div>
   )
 }
